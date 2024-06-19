@@ -1,4 +1,4 @@
-Welcome to the HackWeb!
+**Welcome to the HackWeb!**
 
 Hey there, cyber adventurers! 👋 Welcome to the playground where web vulnerabilities roam free and exploration is key. Whether you're a seasoned hacker or just dipping your toes into the world of cybersecurity, this repository is designed for you to have some ironic fun while learning.
 What is HackWeb?
